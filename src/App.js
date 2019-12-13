@@ -13,8 +13,8 @@ var myIcon = L.icon({
 class App extends Component {
   
   state = {
-    lat: 51.505,
-    lng: -0.09,
+    lat: 35.843965,
+    lng: -78.7851395,
     zoom: 13,
   }
   render(){
